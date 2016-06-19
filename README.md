@@ -1,6 +1,10 @@
 # hyperdev-mongo 
 
-A plaything to hook hyperdev to mongo with a quick and dirty ui to show it working.
+I was playing about with *hyperdev* and I wanted to hook it up to some DB and do bits and bobs with it.
+
+So, this is a plaything to hook (hyperdev.com) to mongo with a quick and dirty ui to show it working.
+
+Check out *[hyperdev](http://www.joelonsoftware.com/items/2016/05/30.html)*, it's pretty cool.
 
 
 ## Where is this running?
