@@ -10,7 +10,6 @@ var express = require('express'),
     
 var app = express();
 
-
 app.use(bodyParser());
 
 
@@ -44,7 +43,7 @@ app.post("/songs",
   function(request, response){
     if (!request.form.isValid) {
        // Handle errors 
-       console.log(request.form.errors);
+       response.send(request.form.errors);
  
      } else {
        // Or, use filtered form data from the form object: 
