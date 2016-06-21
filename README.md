@@ -9,8 +9,8 @@ Check out *[hyperdev](http://www.joelonsoftware.com/items/2016/05/30.html)*, it'
 
 ## Where is this running?
 
-- You can find it running here: (https://flicker-sword.hyperdev.space/)
-- The hyperdev source is here: (https://hyperdev.com/#!/project/flicker-sword)
+- You can find it running here: (https://fern-warrior.hyperdev.space/)
+- The hyperdev source is here: (https://hyperdev.com/#!/project/fern-warrior)
 
 ## Config
 
