@@ -11,7 +11,7 @@
 	},
 	"dependencies": {
 		"express": "^5.0.0-alpha.2",
-		"mongodb": "^2.1.22-alpha4",
+		"mongodb": "^3.6.2",
 		"express-form": "^0.12.5",
 		"body-parser": "^1.15.1"
 	},
